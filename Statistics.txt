@@ -1,0 +1,82 @@
+- Dataset 1:  
+Bits = 531557 * 1024 bits 
+Compression Ratio = 3.75
+
+- Dataset 2:
+Bits = 468436 * 1024 bits.
+Compression Ratio = 3.76
+
+- Dataset 3:
+Bits = 369705 * 1024 bits
+Compression Ratio = 3.76
+
+- Dataset 4:
+Bits = 496829 * 1024 Bits
+Compression Ratio = 3.72
+
+- Dataset 5:
+Bits = 576882 * 1024 Bits
+Compression Ratio = 3.77
+
+- Dataset 6:
+Bits = 470287 * 1024 Bits
+Compression Ratio = 3.8
+
+- Dataset 7:
+Bits = 520176 * 1024 Bits
+Compression Ratio = 3.71
+
+- Dataset 8:
+Bits = 481669 * 1024 Bits
+Compression Ratio = 3.73
+
+- Dataset 9:
+Bits = 542712 * 1024 Bits
+Compression Ratio = 3.83
+
+- Dataset 10:
+Bits = 593820 * 1024 Bits
+Compression Ratio = 3.8
+
+- Dataset 11:
+Bits = 522904 * 1024 Bits
+Compression Ratio = 3.76
+
+- Dataset 12:
+Bits = 502721* 1024 Bits
+Compression Ratio = 3.67
+
+- Dataset 13:
+Bits = 530272 * 1024 Bits
+Compression Ratio = 3.74
+
+- Dataset 14:
+Bits = 508809 * 1024 Bits
+Compression Ratio = 3.69
+
+- Dataset 15:
+Bits = 505766 * 1024 Bits
+Compression Ratio = 3.75
+
+- Dataset 16:
+Bits = 475413 * 1024 Bits
+Compression Ratio = 3.71
+
+- Dataset 17:
+Bits = 505541 * 1024 Bits
+Compression Ratio = 3.71
+
+- Dataset 18:
+Bits =  545578 * 1024 Bits
+Compression Ratio = 3.73
+
+- Dataset 19:
+Bits = 502868 * 1024 Bits
+Compression Ratio = 3.73
+
+- Dataset 20:
+Bits = 517048 * 1024 Bits
+Compression Ratio = 3.73
+
+Average Compression Ratio = 3.75
+Average Number of bits = 508450 * 1024 Bits
